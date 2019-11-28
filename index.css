@@ -1,0 +1,17 @@
+@media (max-width: 768px){
+  #davidhdj_tree{
+    position:fixed;
+    right:0px;
+    bottom:0px;
+    height:100px;
+    background: url("https://raw.githubusercontent.com/DavidHDJ/chrismas_design/master/christmas-tree.png");
+  }
+}
+@media (max-width: 576px){
+  #davidhdj_tree{
+    position:fixed;
+    right:0px;
+    bottom:0px;
+    height: 20px;
+    background: url("https://raw.githubusercontent.com/DavidHDJ/chrismas_design/master/christmas-tree.png");
+  }
